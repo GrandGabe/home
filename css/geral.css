@@ -86,3 +86,13 @@ padding: 4px;}
 		 text-align: center;
 		 width:1100px;
 		 padding: 4px;}
+
+#caixa1 a:hover	{
+	background-color: rgb(110, 110, 180);
+}
+#caixa1 ul, li{
+	list-style-type: none;
+}
+#caixa1 a:link {
+	text-decoration: none;
+}
